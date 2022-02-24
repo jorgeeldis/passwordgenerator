@@ -4,7 +4,7 @@
 
 This project is about a password generator that gives you up to 100 passwords with any length you like. Very helpful if you want to secure your account and kkep your passwords stored somewhere encrypted
 
-![header](https://raw.githubusercontent.com/jorgeeldis/passwrodgenerator/main/password.png)
+![header](https://raw.githubusercontent.com/jorgeeldis/passwordgenerator/main/password.png)
 
 ## Development setup
 
